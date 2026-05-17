@@ -169,3 +169,4 @@ For issues or questions, please open an issue in the repository.
 
 **Made with ❤️ by NTISTY*
 https://github.com/NTISTY/html-cv-project.
+
